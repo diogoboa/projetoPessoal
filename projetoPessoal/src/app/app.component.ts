@@ -15,12 +15,13 @@ constructor(private sweetAlert: SweetAlert2Component) { }
 
   deleteItem() {
 
-    this.sweetAlert.showDialog().then((result) => {
-      if (result.isConfirmed) {
+    this.sweetAlert.yesNoQuestion('titulo', 'texto').then((escolha) =>{
+
+      if(escolha.isConfirmed)
+      {
         console.log('sim');
-      } else {
-          console.log('nao');
       }
+
     });
 
   }
