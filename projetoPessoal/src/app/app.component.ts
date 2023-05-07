@@ -1,10 +1,32 @@
 import { Component } from '@angular/core';
 
+import { SweetAlert2Component } from './shared/sweet-alert2/sweet-alert2.component';
+
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'projetoPessoal';
+
+
+constructor(private sweetAlert: SweetAlert2Component) { }
+
+  deleteItem() {
+
+    this.sweetAlert.showDialog().then((result) => {
+      if (result.isConfirmed) {
+        console.log('sim');
+      } else {
+          console.log('nao');
+      }
+    });
+
+  }
+
+
+
+
+
 }
