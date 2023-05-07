@@ -1,0 +1,66 @@
+
+.dropdown-toggle::after
+{
+  color: rgb(255,193,7);
+}
+
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+
+.about p{
+  margin: 0;
+  text-indent: 2rem;
+  text-align: justify;
+}
+
+
+.item-do-menu:hover
+{
+  background-color: white;
+  transform: scale(1.15);
+}
+
+.item-do-menu:hover i
+{
+  color: rgb(255,193,7);
+  transform: scale(1.15);
+}
+
+.item-do-menu:hover span
+{
+  color: black;
+  font-weight: bold;
+  transform: scale(1.15);
+}
+
+.item-das-redes-sociais:hover
+{
+  color: #ffc107;
+  transform: scale(1.15);
+}
+
+
+.menu-ativo
+{
+  color: green;
+  background-color: white;
+  transform: scale(1.15);
+}
+
+
+.menu-ativo span
+{
+  color: black;
+  background-color: white;
+  transform: scale(1.15);
+}
+
+.menu-ativo i
+{
+  color: black;
+  background-color: white;
+  transform: scale(1.15);
+}
