@@ -5,10 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec0f36d5-9634-431f-88ac-e0cd3fac59c2" name="Changes" comment="aprendendo angular">
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/informacoes-e-contato/informacoes-e-contato.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/informacoes-e-contato/informacoes-e-contato.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/informacoes-e-contato/informacoes-e-contato.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/informacoes-e-contato/informacoes-e-contato.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/projetos/projetos.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/projetos/projetos.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/projetos/projetos.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/projetos/projetos.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/sobre-mim/sobre-mim.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/sobre-mim/sobre-mim.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/sobre-mim/sobre-mim.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/sobre-mim/sobre-mim.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-academica/trajetoria-academica.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-academica/trajetoria-academica.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-academica/trajetoria-academica.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-academica/trajetoria-academica.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-profissional/trajetoria-profissional.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-profissional/trajetoria-profissional.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-profissional/trajetoria-profissional.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-profissional/trajetoria-profissional.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/assets/images/boaventura-software-ico.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/assets/pdf/curriculo_completo.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/shared/footer/footer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/shared/footer/footer.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/shared/side-bar-menu/side-bar-menu.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/shared/side-bar-menu/side-bar-menu.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoPessoal/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/admin/admin.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/admin/admin.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/admin/admin.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/admin/admin.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/modules.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/modules.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/shared/shared.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/shared/shared.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/shared/side-bar-menu/side-bar-menu.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/shared/side-bar-menu/side-bar-menu.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projetoPessoal/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,17 +53,23 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PR1wmFmagvLgioEHZGkI5q6ndc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Diogo Boaventura\Documents\projetoPessoal\projetoPessoal\src\assets\images" />
+      <recent name="C:\Users\Diogo Boaventura\Documents\projetoPessoal\projetoPessoal\src\assets\pdf" />
       <recent name="C:\Users\Diogoboa\IdeaProjects\projetoPessoal\projetoPessoal\src\assets\css" />
     </key>
   </component>
@@ -78,6 +114,7 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="aprendendo angular" />
     <option name="LAST_COMMIT_MESSAGE" value="aprendendo angular" />
   </component>
