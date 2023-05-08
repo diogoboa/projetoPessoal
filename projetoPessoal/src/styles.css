@@ -1,13 +1,13 @@
 ::-webkit-scrollbar {
-    width: 20px;
-    background-color: darkgrey;
+  width: 15px; /* largura da barra de rolagem */
+}
+
+::-webkit-scrollbar-track {
+  background-color: darkgrey; /* cor de fundo da barra de rolagem */
 }
 
 ::-webkit-scrollbar-thumb {
-    background:black url('https://chat.openai.com/apple-touch-icon.png') no-repeat;
-        background-size:26px 63px;
-        background-position:;
-        display: block;
-        width: 30px;
-        height: 100px;
-  }
+  background-color: black; /* cor de preenchimento da barra de rolagem */
+  border-radius: 10px; /* raio do canto da barra de rolagem */
+  border: 2px solid darkgrey; /* cor da borda da barra de rolagem */
+}

@@ -1,13 +1,17 @@
 
+.fundo
+{
+background-color: #fefefe;
+background-image: linear-gradient(38deg, #fefefe 26%, #f7f7f7 51%, #ffffff 75%, #ffffff 100%);
+
+
+}
+
 .dropdown-toggle::after
 {
   color: rgb(255,193,7);
 }
 
-
-::-webkit-scrollbar {
-    display: none;
-}
 
 
 .about p{
@@ -64,3 +68,4 @@
   background-color: white;
   transform: scale(1.15);
 }
+
