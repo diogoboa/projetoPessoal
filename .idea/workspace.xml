@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec0f36d5-9634-431f-88ac-e0cd3fac59c2" name="Changes" comment="aprendendo angular">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/informacoes-e-contato/informacoes-e-contato.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/informacoes-e-contato/informacoes-e-contato.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/sobre-mim/sobre-mim.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/sobre-mim/sobre-mim.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-academica/trajetoria-academica.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-academica/trajetoria-academica.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-academica/trajetoria-academica.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-academica/trajetoria-academica.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-academica/trajetoria-academica.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-academica/trajetoria-academica.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-profissional/trajetoria-profissional.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-profissional/trajetoria-profissional.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-profissional/trajetoria-profissional.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-profissional/trajetoria-profissional.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-profissional/trajetoria-profissional.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-profissional/trajetoria-profissional.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/shared/side-bar-menu/side-bar-menu.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/shared/side-bar-menu/side-bar-menu.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="ec0f36d5-9634-431f-88ac-e0cd3fac59c2" name="Changes" comment="aprendendo angular" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683577737574</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="aprendendo angular">
+      <created>1683746801897</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683746801897</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
