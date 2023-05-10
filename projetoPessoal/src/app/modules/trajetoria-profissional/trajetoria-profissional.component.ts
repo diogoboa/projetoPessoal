@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class TrajetoriaProfissionalComponent {
 
+  competencias_backend: string[] = ["Spring Framework", "PostgreSQL", "Hibernate", "JPA", ];
+
+  competencias_frontend: string[] = ["JavaScript", "AngularJS", "Bootstrap v5", "Datatable", "ChartJS", "HTML5", "CSS3", ];
+
+  competencias_construcao_de_software: string[] = ["UML", "Engenharia de Software", "Astah" ];
+
+  competencias_adicionais: string[] = ["Microsoft Office", "Robótica", "Bootstrap v5", "Datatable", "ChartJS", "HTML5", "CSS3", ];
+
+
 }
