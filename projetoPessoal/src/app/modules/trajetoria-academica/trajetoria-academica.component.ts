@@ -12,9 +12,6 @@ export class TrajetoriaAcademicaComponent {
 
   disciplina_nivel_tecnico: string[] = ["Desenvolvimento de Trabalho de Conclusão de Curso", "Programação WEB III", "Qualidade e Teste de Software", "Banco de Dados", "Desenvolvimento para Dispositivos Móveis I", "Gestão de Conteúdo Web I", "Interfaces WEB II", "Sistemas Web I", "Interfaces WEB 2", "Usabilidade e Design de Interação", "Usabilidade e Design de Interação", "Gestão de Conteúdo Web I", "Pré TCC", "Desenvolvimento de Sistemas", "Design Digital", "Sistemas Embarcados", "Segurança de Sistemas de Informação", "Aplicativos Informatizados"];
 
-  competencias_construcao_de_software: string[] = ["UML", "Engenharia de Software", "Astah" ];
-
-  competencias_adicionais: string[] = ["Microsoft Office", "Robótica", "Bootstrap v5", "Datatable", "ChartJS", "HTML5", "CSS3", ];
 
 
 
