@@ -2,7 +2,8 @@
 
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-
+import { HttpClientModule} from '@angular/common/http';
+import { NgxGalleryModule } from '@kolkov/ngx-gallery';
 
 import { SobreMimComponent } from './sobre-mim/sobre-mim.component';
 import { TrajetoriaProfissionalComponent } from './trajetoria-profissional/trajetoria-profissional.component';
@@ -25,7 +26,8 @@ import { InformacoesEContatoComponent } from './informacoes-e-contato/informacoe
   ],
   imports: [
     CommonModule,
-
+    HttpClientModule,
+    NgxGalleryModule
 
   ],
   exports: [
