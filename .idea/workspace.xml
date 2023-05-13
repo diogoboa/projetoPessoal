@@ -5,17 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec0f36d5-9634-431f-88ac-e0cd3fac59c2" name="Changes" comment="aprendendo angular">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_05_2023_20_05__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_05_2023_20_05__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projetoPessoal/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projetoPessoal/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projetoPessoal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/modules.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/modules.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/projetos/projetos.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/projetos/projetos.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/projetos/projetos.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/projetos/projetos.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/sobre-mim/sobre-mim.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/sobre-mim/sobre-mim.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-academica/trajetoria-academica.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-academica/trajetoria-academica.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-profissional/trajetoria-profissional.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-profissional/trajetoria-profissional.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoPessoal/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/tsconfig.app.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PR1wmFmagvLgioEHZGkI5q6ndc" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">

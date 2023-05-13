@@ -1,7 +1,9 @@
 import { Component } from '@angular/core';
 
 import { SweetAlert2Component } from './shared/sweet-alert2/sweet-alert2.component';
-import * as PhotoSwipe from 'photoswipe';
+
+
+
 
 @Component({
   selector: 'app-root',

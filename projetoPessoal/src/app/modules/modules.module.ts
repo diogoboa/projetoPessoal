@@ -1,8 +1,7 @@
+
+
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-
-
-
 
 
 import { SobreMimComponent } from './sobre-mim/sobre-mim.component';
@@ -10,7 +9,6 @@ import { TrajetoriaProfissionalComponent } from './trajetoria-profissional/traje
 import { TrajetoriaAcademicaComponent } from './trajetoria-academica/trajetoria-academica.component';
 import { ProjetosComponent } from './projetos/projetos.component';
 import { InformacoesEContatoComponent } from './informacoes-e-contato/informacoes-e-contato.component';
-
 
 
 
@@ -27,6 +25,8 @@ import { InformacoesEContatoComponent } from './informacoes-e-contato/informacoe
   ],
   imports: [
     CommonModule,
+
+
   ],
   exports: [
     SobreMimComponent,
