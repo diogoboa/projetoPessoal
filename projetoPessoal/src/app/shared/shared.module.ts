@@ -10,7 +10,7 @@ import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
-    SweetAlert2Component,
+    //SweetAlert2Component,
     SideBarMenuComponent,
     FooterComponent,
 
@@ -22,7 +22,7 @@ import { FooterComponent } from './footer/footer.component';
   ],
   exports: [
     ModulesModule,
-    SweetAlert2Component,
+    //SweetAlert2Component,
     SideBarMenuComponent,
     FooterComponent
   ],

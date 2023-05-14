@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import Swal from 'sweetalert2';
 
+
+
 @Component({
   selector: 'app-sweet-alert2',
   template: '<p>Componente SweetAlert2</p>'

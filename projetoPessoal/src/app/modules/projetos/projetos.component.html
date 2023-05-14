@@ -1,4 +1,4 @@
-<div>
+<div class="animate__animated animate__fadeInUp">
 
   <h3>Projetos</h3>
   <p class="lead"> De maior relevância</p>
@@ -38,7 +38,7 @@
 
           <div class="carousel-inner">
             <div *ngFor="let album of albums; let i = index" class="carousel-item" [class.active]="i === 0">
-              <div class="d-flex align-items-center justify-content-center" style="max-height: 450px;">
+              <div class="d-flex align-items-center justify-content-center" style="height: 450px;">
                 <img [src]="album.src" alt="..." class="img-fluid">
               </div>
               <div class="carousel-caption d-none d-md-block">
