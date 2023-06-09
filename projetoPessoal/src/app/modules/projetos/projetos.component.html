@@ -33,11 +33,11 @@
         <div id="carouselExampleCaptions" class="carousel slide bg-dark rounded" style="max-width: 100%;">
 
           <div class="carousel-indicators">
-            <button *ngFor="let album of albums; let i = index" type="button" data-bs-target="#carouselExampleCaptions" [attr.data-bs-slide-to]="i" [class.active]="i === 0" [attr.aria-current]="i === 0 ? 'true' : null" [attr.aria-label]="'Slide ' + (i + 1)"></button>
+            <button *ngFor="let album of album_docas_grupo_penta; let i = index" type="button" data-bs-target="#carouselExampleCaptions" [attr.data-bs-slide-to]="i" [class.active]="i === 0" [attr.aria-current]="i === 0 ? 'true' : null" [attr.aria-label]="'Slide ' + (i + 1)"></button>
           </div>
 
           <div class="carousel-inner">
-            <div *ngFor="let album of albums; let i = index" class="carousel-item" [class.active]="i === 0">
+            <div *ngFor="let album of album_docas_grupo_penta; let i = index" class="carousel-item" [class.active]="i === 0">
               <div class="d-flex align-items-center justify-content-center" style="height: 450px;">
                 <img [src]="album.src" alt="..." class="img-fluid">
               </div>
@@ -97,11 +97,11 @@
         <div id="carouselExampleCaptions2" class="carousel slide bg-dark rounded" style="max-width: 100%;">
 
           <div class="carousel-indicators">
-            <button *ngFor="let album of albums; let i = index" type="button" data-bs-target="#carouselExampleCaptions2" [attr.data-bs-slide-to]="i" [class.active]="i === 0" [attr.aria-current]="i === 0 ? 'true' : null" [attr.aria-label]="'Slide ' + (i + 1)"></button>
+            <button *ngFor="let album of albums_sispenta; let i = index" type="button" data-bs-target="#carouselExampleCaptions2" [attr.data-bs-slide-to]="i" [class.active]="i === 0" [attr.aria-current]="i === 0 ? 'true' : null" [attr.aria-label]="'Slide ' + (i + 1)"></button>
           </div>
 
           <div class="carousel-inner">
-            <div *ngFor="let album of albums; let i = index" class="carousel-item" [class.active]="i === 0">
+            <div *ngFor="let album of albums_sispenta; let i = index" class="carousel-item" [class.active]="i === 0">
               <div class="d-flex align-items-center justify-content-center" style="max-height: 450px;">
                 <img [src]="album.src" alt="..." class="img-fluid">
               </div>
