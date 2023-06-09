@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "projeto-pessoal",
   "version": "0.0.0",
   "scripts": {
@@ -55,9 +54,5 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
     "typescript": "~5.0.2"
-=======
-  "dependencies": {
-    "sweetalert2": "^11.7.5"
->>>>>>> 0221512b1a746169a3ef42c8ab3f4ab277b27f87
   }
 }
