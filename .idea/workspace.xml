@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec0f36d5-9634-431f-88ac-e0cd3fac59c2" name="Changes" comment="aprendendo angular">
-      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/assets/images/projetos/sisPenta/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/assets/images/projetos/sisPenta/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/assets/images/projetos/sisPenta/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/assets/images/projetos/sisPenta/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/assets/images/projetos/sisPenta/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/assets/images/projetos/sisPenta/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/assets/images/projetos/sisPenta/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/assets/images/projetos/sisPenta/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/assets/images/projetos/sisPenta/09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/assets/images/projetos/sisPenta/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoPessoal/src/assets/images/projetos/sisPenta/11.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/projetos/projetos.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/projetos/projetos.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/projetos/projetos.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/projetos/projetos.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/sobre-mim/sobre-mim.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/sobre-mim/sobre-mim.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-academica/trajetoria-academica.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoPessoal/src/app/modules/trajetoria-academica/trajetoria-academica.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684075077646</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="aprendendo angular">
+      <created>1686326346284</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686326346284</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="UnknownFeatures">
