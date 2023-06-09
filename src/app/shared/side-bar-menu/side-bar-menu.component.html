@@ -1,0 +1,109 @@
+<div class="fundo">
+  <div class="container-fluid overflow-hidden bg-white rounded" style="max-width: 1650px;">
+    <div class="row vh-100 overflow-auto">
+      <div class="col-12 col-lg-3  px-0 bg-dark d-flex sticky-top">
+        <div class="d-flex flex-lg-column flex-row flex-grow-1 align-items-center align-items-lg-start ms-lg-1 px-3 pt-2 text-white animate__animated animate__backInLeft">
+          <a href="/" class="mt-lg-5 d-flex align-items-center pb-lg-3 mb-lg-0 me-lg-auto text-white text-decoration-none">
+
+            <div class="">
+              <span class="ms-2 fs-5">D<span class="d-none d-lg-inline">iogo </span>B<span class="d-none d-lg-inline">oaventura</span></span>
+            </div>
+
+          </a>
+
+
+
+          <ul class="nav nav-pills flex-lg-column flex-row flex-nowrap flex-shrink-1 flex-lg-grow-0 flex-grow-1 mb-lg-auto mb-0 justify-content-center align-items-center align-items-sm-start" id="menu">
+
+
+            <li class="nav-item">
+              <a routerLink="/sobre-mim" routerLinkActive="menu-ativo animate__animated animate__animated animate__pulse" class="nav-link text-white item-do-menu ">
+                <i class="fa-regular fa-address-card"></i><span class="ms-2 d-none d-lg-inline">Sobre mim</span>
+              </a>
+            </li>
+
+            <li class="nav-item">
+              <a routerLink="/trajetoria-profissional" routerLinkActive="menu-ativo animate__animated animate__animated animate__pulse" class="nav-link text-white item-do-menu">
+                <i class="fa-solid fa-user-tie"></i><span class="ms-2 d-none d-lg-inline">Trajetória Profissional</span>
+              </a>
+            </li>
+
+
+            <li class="nav-item">
+              <a routerLink="/trajetoria-academica" routerLinkActive="menu-ativo animate__animated animate__animated animate__pulse" class="nav-link text-white item-do-menu">
+                <i class="fa-solid fa-school"></i><span class="ms-2 d-none d-lg-inline">Trajetória Acadêmica</span>
+              </a>
+            </li>
+
+
+            <li class="nav-item">
+              <a routerLink="/projetos" routerLinkActive="menu-ativo animate__animated animate__animated animate__pulse" class="nav-link text-white item-do-menu text-wrap">
+                <i class="fa-solid fa-diagram-project"></i><span class="ms-2 d-none d-lg-inline">Projetos</span>
+              </a>
+            </li>
+
+            <li class="dropdown">
+              <a href="#" class="nav-link dropdown-toggle item-do-menu" id="dropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                <i class="fa-solid fa-download text-warning"></i><span class="ms-2 d-none d-lg-inline text-warning">Download Currículo</span>
+              </a>
+              <ul class="dropdown-menu dropdown-menu-dark text-small shadow" aria-labelledby="dropdown">
+                <li><a (click)="btn_academico();" class="dropdown-item" >Acadêmico</a></li>
+                <li><a href="#" class="dropdown-item" >Profissional</a></li>
+
+                <li>
+                  <hr class="dropdown-divider">
+                </li>
+                <li><a href="/assets/pdf/curriculo_completo.pdf" class="dropdown-item" target="_blank">Completo</a></li>
+              </ul>
+            </li>
+
+
+
+          </ul>
+
+          <ul class="nav nav-pills mb-lg-5">
+            <li class="nav-item">
+              <a routerLink="/informacoes-e-contato"  routerLinkActive="menu-ativo animate__animated animate__animated animate__pulse" class="nav-link text-white item-do-menu">
+                <i class="fa-solid fa-phone-volume"></i><span class="ms-2 d-none d-lg-inline text-wrap">Informações e Contato</span>
+              </a>
+            </li>
+          </ul>
+
+        </div>
+      </div>
+      <div class="col d-flex flex-column h-100 animate__animated animate__fadeInUp">
+        <main class="row px-3">
+
+          <div class="col pt-5">
+            <div class="sticky-top bg-white pb-3">
+              <div class="d-flex justify-content-end ">
+
+
+
+              <div class="d-flex justify-content-end gap-3">
+                <div><a href="https://github.com/diogoboa" target="_blank"><i class="fa-brands fa-github h1 item-das-redes-sociais text-dark"></i></a></div>
+                <div><a href="mailto:diogo.boaventura.ufms@gmail.com" target="_blank"><i class="fa-solid fa-envelope h1 item-das-redes-sociais text-dark"></i></a></div>
+                <div><a href="https://www.linkedin.com/in/diogoboa/" target="_blank"><i class="fa-brands fa-linkedin h1 item-das-redes-sociais text-dark"></i></a></div>
+              </div>
+
+
+              </div>
+            </div>
+
+            <div>
+
+              <router-outlet></router-outlet>
+
+
+            </div>
+
+          </div>
+        </main>
+        <app-footer></app-footer>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>

@@ -1,0 +1,138 @@
+<div class="animate__animated animate__fadeInUp">
+
+  <h3>Projetos</h3>
+  <p class="lead"> De maior relevância</p>
+  <hr />
+
+  <div class="div_bloco">
+    <div class="mt-5">
+
+      <div class="row h3">
+        <div class="col-5">1</div>
+        <div class="col-6">docasGrupoPenta</div>
+
+      </div>
+    </div>
+
+
+    <div class="about text-justify">
+      <div class="about text-justify" style="hyphens: auto;">
+
+        <p>O sistema, conhecido como "docasGrupoPenta", foi um sistema desenvolvido por mim para o Grupo Penta com o intuito de otimizar as operaçoes de carga e descarga, tornando as informações reais em informações digitais. Além disso, o sistema oferece a geração de relatórios periódicos, como mensais, semanais ou em tempo real, fornecendo informações valiosas para análise e tomada de decisões.</p>
+
+        <p>Uma característica importante do sistema é a capacidade de filtrar os serviços por empresa, permitindo uma visualização personalizada de acordo com as necessidades individuais. Além disso, o sistema disponibiliza recursos para a conciliação dos serviços prestados, facilitando o controle e verificação de pagamentos e transações.</p>
+
+        <p>O "docasGrupoPenta" é utilizado em diversas áreas, como contas a receber, operações, controladoria e diretoria. Atualmente, o sistema é empregado em aproximadamente 22 cidades onde o Grupo Penta possui lojas, com planos de expansão para novas localidades. Cada loja possui um login exclusivo no sistema.</p>
+
+        <p>Esse sistema personalizado desenvolvido para o Grupo Penta resultou em melhorias significativas nos processos de negócios. Com suas funcionalidades específicas e adaptadas, ele contribui para uma gestão mais eficiente, permitindo análises precisas e apoiando as decisões estratégicas do Grupo Penta.</p>
+      </div>
+    </div>
+
+    <div class="d-flex justify-content-center">
+      <div class="col-md-8 col-12">
+        <div id="carouselExampleCaptions" class="carousel slide bg-dark rounded" style="max-width: 100%;">
+
+          <div class="carousel-indicators">
+            <button *ngFor="let album of album_docas_grupo_penta; let i = index" type="button" data-bs-target="#carouselExampleCaptions" [attr.data-bs-slide-to]="i" [class.active]="i === 0" [attr.aria-current]="i === 0 ? 'true' : null" [attr.aria-label]="'Slide ' + (i + 1)"></button>
+          </div>
+
+          <div class="carousel-inner">
+            <div *ngFor="let album of album_docas_grupo_penta; let i = index" class="carousel-item" [class.active]="i === 0">
+              <div class="d-flex align-items-center justify-content-center" style="height: 450px;">
+                <img [src]="album.src" alt="..." class="img-fluid">
+              </div>
+              <div class="carousel-caption d-none d-md-block">
+                <h5>{{ album.caption }}</h5>
+              </div>
+            </div>
+          </div>
+
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <hr />
+
+
+  <div class="div_bloco">
+    <div class="mt-5">
+
+      <div class="row h3">
+        <div class="col-5">1</div>
+        <div class="col-6">SisPenta</div>
+
+      </div>
+    </div>
+
+
+    <div class="about text-justify">
+      <div class="about text-justify" style="hyphens: auto;">
+
+        <p>O sistema, conhecido como "docasGrupoPenta", foi um sistema desenvolvido por mim para o Grupo Penta com o intuito de otimizar as operaçoes de carga e descarga, tornando as informações reais em informações digitais. Além disso, o sistema oferece a geração de relatórios periódicos, como mensais, semanais ou em tempo real, fornecendo informações valiosas para análise e tomada de decisões.</p>
+
+        <p>Uma característica importante do sistema é a capacidade de filtrar os serviços por empresa, permitindo uma visualização personalizada de acordo com as necessidades individuais. Além disso, o sistema disponibiliza recursos para a conciliação dos serviços prestados, facilitando o controle e verificação de pagamentos e transações.</p>
+
+        <p>O "docasGrupoPenta" é utilizado em diversas áreas, como contas a receber, operações, controladoria e diretoria. Atualmente, o sistema é empregado em aproximadamente 22 cidades onde o Grupo Penta possui lojas, com planos de expansão para novas localidades. Cada loja possui um login exclusivo no sistema.</p>
+
+        <p>Esse sistema personalizado desenvolvido para o Grupo Penta resultou em melhorias significativas nos processos de negócios. Com suas funcionalidades específicas e adaptadas, ele contribui para uma gestão mais eficiente, permitindo análises precisas e apoiando as decisões estratégicas do Grupo Penta.</p>
+      </div>
+    </div>
+
+
+
+    <div class="d-flex justify-content-center">
+      <div class="col-md-8 col-12">
+        <div id="carouselExampleCaptions2" class="carousel slide bg-dark rounded" style="max-width: 100%;">
+
+          <div class="carousel-indicators">
+            <button *ngFor="let album of albums_sispenta; let i = index" type="button" data-bs-target="#carouselExampleCaptions2" [attr.data-bs-slide-to]="i" [class.active]="i === 0" [attr.aria-current]="i === 0 ? 'true' : null" [attr.aria-label]="'Slide ' + (i + 1)"></button>
+          </div>
+
+          <div class="carousel-inner">
+            <div *ngFor="let album of albums_sispenta; let i = index" class="carousel-item" [class.active]="i === 0">
+              <div class="d-flex align-items-center justify-content-center" style="max-height: 450px;">
+                <img [src]="album.src" alt="..." class="img-fluid">
+              </div>
+              <div class="carousel-caption d-none d-md-block">
+                <h5>{{ album.caption }}</h5>
+              </div>
+            </div>
+          </div>
+
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions2" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions2" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+
+        </div>
+      </div>
+    </div>
+
+
+
+
+  </div>
+
+
+
+
+</div>
+
+
