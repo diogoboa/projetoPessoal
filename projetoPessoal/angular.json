@@ -24,8 +24,12 @@
             ],
             "tsConfig": "tsconfig.app.json",
             "assets": [
-              "src/assets/images/boaventura-software-ico.ico",
-              "src/assets"
+              "src/favicon.ico",
+              {
+                "glob": "**/*",
+                "input": "src/assets",
+                "output": "/assets"
+              }
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",

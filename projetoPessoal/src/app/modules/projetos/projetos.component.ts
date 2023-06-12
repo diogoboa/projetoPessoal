@@ -19,99 +19,99 @@ export class ProjetosComponent implements OnInit {
       // Create your album with images
       this.album_docas_grupo_penta = [
         {
-          src: '/assets/images/projetos/docasGrupoPenta/01.png',
+          src: 'assets/images/projetos/docasGrupoPenta/01.png',
           caption: '',
           thumb: ''
         },
         {
-          src: '/assets/images/projetos/docasGrupoPenta/02.jpeg',
+          src: 'assets/images/projetos/docasGrupoPenta/02.jpeg',
           caption: '',
           thumb: ''
         },
         {
-          src: '/assets/images/projetos/docasGrupoPenta/03.jpeg',
+          src: 'assets/images/projetos/docasGrupoPenta/03.jpeg',
           caption: '',
           thumb: ''
         },
         {
-          src: '/assets/images/projetos/docasGrupoPenta/04.jpeg',
+          src: 'assets/images/projetos/docasGrupoPenta/04.jpeg',
           caption: '',
           thumb: ''
         },
         {
-          src: '/assets/images/projetos/docasGrupoPenta/05.png',
-          caption: '',
-          thumb: ''
-        },
-
-        {
-          src: '/assets/images/projetos/docasGrupoPenta/06.jpeg',
+          src: 'assets/images/projetos/docasGrupoPenta/05.png',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/docasGrupoPenta/07.png',
+          src: 'assets/images/projetos/docasGrupoPenta/06.jpeg',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/docasGrupoPenta/08.jpeg',
-          caption: 'Image 2',
-          thumb: ''
-        },
-
-        {
-          src: '/assets/images/projetos/docasGrupoPenta/09.png',
+          src: 'assets/images/projetos/docasGrupoPenta/07.png',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/docasGrupoPenta/12.jpeg',
+          src: 'assets/images/projetos/docasGrupoPenta/08.jpeg',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/docasGrupoPenta/13.jpeg',
+          src: 'assets/images/projetos/docasGrupoPenta/09.png',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/docasGrupoPenta/14.png',
+          src: 'assets/images/projetos/docasGrupoPenta/12.jpeg',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/docasGrupoPenta/15.jpeg',
+          src: 'assets/images/projetos/docasGrupoPenta/13.jpeg',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/docasGrupoPenta/16.jpeg',
+          src: 'assets/images/projetos/docasGrupoPenta/14.png',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/docasGrupoPenta/17.jpeg',
+          src: 'assets/images/projetos/docasGrupoPenta/15.jpeg',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/docasGrupoPenta/18.jpeg',
+          src: 'assets/images/projetos/docasGrupoPenta/16.jpeg',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/docasGrupoPenta/19.jpeg',
+          src: 'assets/images/projetos/docasGrupoPenta/17.jpeg',
+          caption: '',
+          thumb: ''
+        },
+
+        {
+          src: 'assets/images/projetos/docasGrupoPenta/18.jpeg',
+          caption: '',
+          thumb: ''
+        },
+
+        {
+          src: 'assets/images/projetos/docasGrupoPenta/19.jpeg',
           caption: '',
           thumb: ''
         }
@@ -123,62 +123,78 @@ export class ProjetosComponent implements OnInit {
 
       this.albums_sispenta = [
         {
-          src: '/assets/images/projetos/sisPenta/01.jpg',
+          src: 'assets/images/projetos/sisPenta/01.jpg',
           caption: '',
           thumb: ''
         },
         {
-          src: '/assets/images/projetos/sisPenta/02.jpg',
+          src: 'assets/images/projetos/sisPenta/02.jpg',
           caption: '',
           thumb: ''
         },
         {
-          src: '/assets/images/projetos/sisPenta/03.jpg',
+          src: 'assets/images/projetos/sisPenta/03.jpg',
           caption: '',
           thumb: ''
         },
         {
-          src: '/assets/images/projetos/sisPenta/04.jpg',
+          src: 'assets/images/projetos/sisPenta/04.jpg',
           caption: '',
           thumb: ''
         },
         {
-          src: '/assets/images/projetos/sisPenta/05.jpg',
+          src: 'assets/images/projetos/sisPenta/05.jpg',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/sisPenta/07.jpg',
+          src: 'assets/images/projetos/sisPenta/07.jpg',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/sisPenta/08.jpg',
+          src: 'assets/images/projetos/sisPenta/08.jpg',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/sisPenta/09.jpg',
+          src: 'assets/images/projetos/sisPenta/09.jpg',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/sisPenta/10.jpg',
+          src: 'assets/images/projetos/sisPenta/10.jpg',
           caption: '',
           thumb: ''
         },
 
         {
-          src: '/assets/images/projetos/sisPenta/11.jpg',
+          src: 'assets/images/projetos/sisPenta/11.jpg',
           caption: '',
           thumb: ''
         },
 
+        {
+          src: 'assets/images/projetos/sisPenta/12.jpg',
+          caption: '',
+          thumb: ''
+        },
 
+        {
+          src: 'assets/images/projetos/sisPenta/13.jpg',
+          caption: '',
+          thumb: ''
+        },
+
+        {
+          src: 'assets/images/projetos/sisPenta/14.jpg',
+          caption: '',
+          thumb: ''
+        },
 
       ];
 

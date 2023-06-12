@@ -3,7 +3,7 @@
     <div class="row vh-100 overflow-auto">
       <div class="col-12 col-lg-3  px-0 bg-dark d-flex sticky-top">
         <div class="d-flex flex-lg-column flex-row flex-grow-1 align-items-center align-items-lg-start ms-lg-1 px-3 pt-2 text-white animate__animated animate__backInLeft">
-          <a href="/" class="mt-lg-5 d-flex align-items-center pb-lg-3 mb-lg-0 me-lg-auto text-white text-decoration-none">
+          <a  routerLink="/sobre-mim" class="mt-lg-5 d-flex align-items-center pb-lg-3 mb-lg-0 me-lg-auto text-white text-decoration-none">
 
             <div class="">
               <span class="ms-2 fs-5">D<span class="d-none d-lg-inline">iogo </span>B<span class="d-none d-lg-inline">oaventura</span></span>
@@ -48,12 +48,12 @@
               </a>
               <ul class="dropdown-menu dropdown-menu-dark text-small shadow" aria-labelledby="dropdown">
                 <li><a (click)="btn_academico();" class="dropdown-item" >Acadêmico</a></li>
-                <li><a href="#" class="dropdown-item" >Profissional</a></li>
+                <li><a (click)="btn_profissional();" class="dropdown-item" >Profissional</a></li>
 
                 <li>
                   <hr class="dropdown-divider">
                 </li>
-                <li><a href="/assets/pdf/curriculo_completo.pdf" class="dropdown-item" target="_blank">Completo</a></li>
+                <li><a (click)="btn_completo();" class="dropdown-item" target="_blank">Completo</a></li>
               </ul>
             </li>
 
