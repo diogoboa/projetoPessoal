@@ -11,10 +11,6 @@ export class SideBarMenuComponent {
 
   constructor(private sweetAlert2: SweetAlert2Component) {}
 
-  btn_academico()
-  {
-    this.sweetAlert2.yesNoQuestion('ok', 'ok');
-  }
 
 
 }
