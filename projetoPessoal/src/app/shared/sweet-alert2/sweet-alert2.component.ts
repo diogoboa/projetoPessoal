@@ -28,7 +28,21 @@ export class SweetAlert2Component {
 
 
 
+  confirmInfo(titulo: string, texto: string) {
 
+      return Swal.fire({
+        title: titulo,
+        text: texto,
+        icon: 'info',
+        showCancelButton: false,
+        confirmButtonColor: '#3085d6',
+        cancelButtonColor: '#d33',
+        confirmButtonText: 'OK',
+        cancelButtonText: 'Não'
+      });
+
+
+    }
 
 
 

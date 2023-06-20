@@ -13,7 +13,18 @@ export class SideBarMenuComponent {
 
   btn_academico()
   {
-    this.sweetAlert2.yesNoQuestion('ok', 'ok');
+    this.sweetAlert2.confirmInfo('Em construção', 'Pagina em construcao');
+  }
+
+
+  btn_profissional()
+  {
+    this.sweetAlert2.confirmInfo('Em construção', 'Pagina em construcao');
+  }
+
+  btn_completo()
+  {
+    this.sweetAlert2.confirmInfo('Em construção', 'Pagina em construcao');
   }
 
 
